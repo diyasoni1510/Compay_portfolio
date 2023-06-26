@@ -1,0 +1,9 @@
+h1::before{
+    content: "remember";
+    background-color: yellow;
+    color: red;
+    font-weight: bold;
+}
+h1{
+    color: red;
+}
